@@ -11,6 +11,11 @@ You may also clear all the configuration back to the default state with the ```R
 
 There is not just one computer servicing the messages and this webpage. There's a cluster. The ```GET CLUSTER STATS``` button will retreive the status of those computers. Mostly this is just for me, your humble author, to debug problems.
 
+## Build date.
+This is when the version you are using was released. 
+## ⟳
+Shift click reload in the browser, to get the latest version.
+
 ## PUSH ME
 
 Just a gratuitous egotistical easter egg. It's safe to ignore. 
