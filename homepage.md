@@ -1,6 +1,6 @@
 If you are on a phone you may not notice the menu popup:
 
-![main-menu](/main-menu.png)
+![main-menu](/images/main-menu.png)
 
 Click on it to open the menu to see the other tabs.
 
