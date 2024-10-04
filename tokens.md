@@ -1,5 +1,5 @@
 
-This confusing bit of jargon and alien user interface serves two basic functions.
+This confusing bit of jargon and alien user interface serves two basic functions. It's a **secret key** to prove you're you and an **access token** to prove you have permission to use the services.
 
 Fortunately it's really only something you need to do once at the beginning.
 
@@ -25,4 +25,4 @@ Just click on the big fat GET NEW ACCESS TOKEN button and you're done. You will 
 
 Follow Alan Tracey Wootton on [X aka Twitter](https://x.com/alan_t_wootton) for more info on the quest to make the internet better. 
 
-Use the 'NAMES' tab to reserve semi-free internet names. 
+Use the 'NAMES' tab to reserve semi-free (knot free) internet names. 

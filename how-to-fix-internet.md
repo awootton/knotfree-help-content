@@ -4,7 +4,7 @@
 Explained for 5th graders
  
 
-TL;DR DNS should be 1000 times cheaper by now. This forces people into big tech and stifles innovation. Now live at [knotfree.net](https://knotfree.net)
+TL;DR DNS should be 1000 times cheaper by now. This forces people into big tech and stifles innovation. Now live at [knotfree.net](https://knotfree.net). Please [sign the petition](https://chng.it/YMmpHyjYwQ) for cheap internet names.
 
 ### What's the problem?
 There are many complaints about the internet. Too many to list here, it only really takes one to need fixing so let's look at one and list the rest later.
@@ -20,17 +20,19 @@ A more likely scenario is that the site will simply raise the 'price' for using 
 
 The 'internet' started before there were webpages at all. In the beginning the only useful offerings for most were Compuserve and AOL. They were similar to a portal today (like [Yahoo](https://yahoo.com)). The problem with this is that only the company could add pages. Not the people.
 
-The World Wide Web started soon after and anyone with a computer could have a page. This exploded in popularity. It was similar to a social network where content comes from a users computer that's running some 'server' software (an app). Wordpress is popular for that. One could find interesting things by using a search engine (like Google). Collecting followers meant that you got their email addresses.
+The World Wide Web started soon after and anyone with a computer could have a page. This exploded in popularity. It was similar to a social network where content comes from a users computer (there's an app) and not through a big company. Wordpress is popular for that. One could find interesting things by using a search engine (like Google). Collecting followers meant that you got their email addresses. I propose we get back to this ideal.
 
 There was freedom. No company could take away your followers. When or if you made money it was all yours. The search engine could be one of several and competition was possible. At a social media company site (facebook, tiktok, twitter, etc) they decide what to show you and there are no alternatives.
 
 ### How the internet works
 
-Using the official terms for the internet will bore most people to sleep. It's more fun to explain using magic post offices with lots of PO Boxes and tiny magic elves that deliver postcards.
+If we know how it works we can describe how to fix it.
+
+Using the official terms for the internet will bore most people to sleep. It's more fun to explain using magic post offices with lots of P.O. Boxes and tiny magic elves that deliver postcards.
 
 ![A wall of post office boxes with a very tiny magic elf](/images/ElfBoxes1.jpeg)
 
-Every computer, and that includes phones has a magic post office with some 65000 PO Boxes. You can reserve a box. The post office has an address. It's not like a street address more like a phone number.
+Every computer, and that includes phones has a magic post office with some 65000 P.O. Boxes. You can reserve a box. The post office has an address. It's not like a street address. It's more like a phone number.
 
 For instance: 2398826222 would be such a number. When it's a phone number it looks like this: (239)882-6222  For the internet it's written 142.251.46.238 [^1] These are all the same number. If you put this number into a browser:
 
@@ -44,35 +46,36 @@ Example:
 The 'From' address must be the address of the sending computer.   
 The elves sometimes lose these postcards and they are readable by anyone along the way. It's better than nothing. 
 
-### For longer messages there is an Envelope service.
-Some enterprising elves will take a long message, break it into postcard size peices, number them, send them and on the other end reassemble them back to the original. If some cards are missing, they will be sent again! This solves the missing postcard problem. There is a fancier version that encrypts everything so nobody can read it.
+### For longer messages - Envelope!
+Some enterprising elves will take a long message, break it into postcard size pieces, number them, send them and on the other end reassemble them back to the original. If some cards are missing, they will be sent again! This solves the missing postcard problem. There is a fancier version that encrypts everything so nobody can read it.
 
 ### Numbers are numbing. 
 
 And everyone hates them. That's why there's '411' for telephones and a phonebook. 
 For the internet there's a gadget called DNS. You send it a postcard with a name, like 'google.com' and it sends you back the number, like '142.251.116.113'. Put that number into a browser and see what happens. Like [this](http://142.251.116.113).
 
+### So the way the web works 
+
+is that your computer sends a message with a request for a webpage to Box 80 of some computer. A web page is sent back. Simple. 
+In the case of google.com or facebook.com there's a whole warehouse of computers. 
+
+We could **all** be offering web pages except for 2 things. 
+
+- Our computers/phones don't have permanent global addresses anymore.
+- Reserving a name costs $20 (at squarespace)
+
+One reason your laptop doesn't have a number address on the internet is because we're running low on unused numbers. This is a major problem, however there are workarounds. Follow me on [X/twitter](https://x.com/alan_t_wootton) or [LinkedIn](https://www.linkedin.com/in/awootton/) and on [substack](https://wootton.substack.com/) for ongoing demos of these things.
+
+The main problem we propose to fix here is the price of the names. There is a demo version of "penny" names at [knotfree.net](https://knotfree.net) 
+
+The powers that be (ICANN) could make this a reality with the flip of a switch. Let's ask them to please help us.
+
+Please [sign the petition](https://chng.it/YMmpHyjYwQ) for cheap internet names.
 
 
-<!-- ### More and more and more
-
-
-### You'll want a name. Or, several.
-
-
-### You're not really 'on' the internet.
-
-
-### etc
-
- -->
 <!-- 
 
-
 [^1]: https://www.ipaddressguide.com/ip will convert from number to internet address. 
-
-
-
  and elf :joy: ok
 
 142.251.46.238
