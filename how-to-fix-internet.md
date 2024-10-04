@@ -59,12 +59,15 @@ For the internet there's a gadget called DNS. You send it a postcard with a name
 is that your computer sends a message with a request for a webpage to Box 80 of some computer. A web page is sent back. Simple. 
 In the case of google.com or facebook.com there's a whole warehouse of computers. 
 
+### The probem is
 We could **all** be offering web pages except for 2 things. 
 
 - Our computers/phones don't have permanent global addresses anymore.
 - Reserving a name costs $20 (at squarespace)
 
 One reason your laptop doesn't have a number address on the internet is because we're running low on unused numbers. This is a major problem, however there are workarounds. Follow me on [X/twitter](https://x.com/alan_t_wootton) or [LinkedIn](https://www.linkedin.com/in/awootton/) and on [substack](https://wootton.substack.com/) for ongoing demos of these things.
+
+### And this is how we fix it.
 
 The main problem we propose to fix here is the price of the names. There is a demo version of "penny" names at [knotfree.net](https://knotfree.net) 
 
