@@ -1,10 +1,11 @@
 
 ![Old fashioned book cover saying "How to fix the internet. How it works. How it broke."](/images/HowToFix.png)
  
-Explained for 5th graders
- 
 
-TL;DR DNS should be 1000 times cheaper by now. This forces people into big tech and stifles innovation. Now live at [knotfree.net](https://knotfree.net). Please [sign the petition](https://chng.it/YMmpHyjYwQ) for cheap internet names.
+TL;DR DNS should be 1000 times cheaper by now. 
+This forces people into big tech and stifles innovation. 
+Now live at [knotfree.net](https://knotfree.net). 
+Please [sign the petition](https://chng.it/YMmpHyjYwQ) for cheap 'penny' internet names.
 
 ### What's the problem?
 There are many complaints about the internet. Too many to list here, it only really takes one to need fixing so let's look at one and list the rest later.
@@ -14,7 +15,7 @@ Something people often wish to do is to have lots of friends - to be an influenc
 
 The first problem with that is that you can be cancelled by the company. This has happened to many people. If your account is suspended then all your followers are gone. Unreachable. If only you had their email addresses or some other way to reach them!
 
-A more likely scenario is that the site will simply raise the 'price' for using it (usually advertisments) and lower the payback for being an influencer. As a company they must try to maximize revenue and this may not be as good for you as it is for them. There's nothing you can do. Cory Doctrow amusingly calls this [enshittification](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys) of the internet (which cracks me up). It's a problem.
+A more likely scenario is that the site will simply raise the 'price' for using it (usually advertisements) and lower the payback for being an influencer. As a company they must try to maximize revenue and this may not be as good for you as it is for them. There's nothing you can do. Cory Doctrow amusingly calls this [enshittification](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys) of the internet (which cracks me up). It's a problem.
 
 ### How the web started
 
@@ -34,7 +35,7 @@ Using the official terms for the internet will bore most people to sleep. It's m
 
 Every computer, and that includes phones has a magic post office with some 65000 P.O. Boxes. You can reserve a box. The post office has an address. It's not like a street address. It's more like a phone number.
 
-For instance: 2398826222 would be such a number. When it's a phone number it looks like this: (239)882-6222  For the internet it's written 142.251.46.238 [^1] These are all the same number. If you put this number into a browser:
+For instance: 2398826222 would be such a number. When it's a phone number it looks like this: (239)882-6222  For the internet it's written 142.251.46.238 These are all the same number. If you put this number into a browser:
 
 ![google](/images/ip-of-google.png)  
 You will get the google homepage because 142.251.46.238 is Googles internet 'address' where google.com is just Googles 'name'.
@@ -58,22 +59,32 @@ For the internet there's a gadget called DNS. You send it a postcard with a name
 
 is that your computer sends a message with a request for a webpage to Box 80 of some computer. A web page is sent back. Simple. 
 In the case of google.com or facebook.com there's a whole warehouse of computers. 
+They call the computer supplying the webpage a 'server' but it was really just another computer.
 
-### The probem is
+### The problem is
+
+Back in the day every computer could be a 'server'. There was an app for that.
+One would simply get a name and then be public. There were blogs, picture brocures
+and everything imaginable. This is what made the internet great. 
+Over time the ability of *every* computer to be a server slipped away. **This is the problem**.
+
 We could **all** be offering web pages except for 2 things. 
 
 - Our computers/phones don't have permanent global addresses anymore.
-- Reserving a name costs $20 (at squarespace)
+- Reserving a name costs tens of dollars per year.
 
-One reason your laptop doesn't have a number address on the internet is because we're running low on unused numbers. This is a major problem, however there are workarounds. Follow me on [X/twitter](https://x.com/alan_t_wootton) or [LinkedIn](https://www.linkedin.com/in/awootton/) and on [substack](https://wootton.substack.com/) for ongoing demos of these things.
+One reason your laptop doesn't have a number address on the internet is because we're running 
+low on unused numbers. This is a major problem, however there are workarounds. Follow me on [X/twitter](https://x.com/alan_t_wootton) or [LinkedIn](https://www.linkedin.com/in/awootton/) and on [substack](https://wootton.substack.com/) for ongoing demos of workarounds.
 
 ### And this is how we fix it.
 
-The main problem we propose to fix here is the price of the names. There is a demo version of "penny" names at [knotfree.net](https://knotfree.net) 
+The main problem we propose to fix here is the price of the names. 
+There is a demo version of "penny" names at [knotfree.net](https://knotfree.net) running *now*.
+It's happening. It's written and it's live. 
 
 The powers that be (ICANN) could make this a reality with the flip of a switch. Let's ask them to please help us.
 
-Please [sign the petition](https://chng.it/YMmpHyjYwQ) for cheap internet names.
+## Please [sign the petition](https://chng.it/YMmpHyjYwQ) for cheap internet names!
 
 
 <!-- 
